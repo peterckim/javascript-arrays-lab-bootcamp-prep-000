@@ -29,3 +29,7 @@ function prependKitten(name) {
   const kittens1 = [name, ...kittens];
   return kittens1;
 }
+
+function removeLastKitten() {
+  
+}
