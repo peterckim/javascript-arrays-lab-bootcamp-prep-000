@@ -31,5 +31,5 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  
+  const kittens1 = kittens.s
 }
